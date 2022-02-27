@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Motives to perswade people to abstain from one meals meat in a week, and to give the value thereof unto the trustees for propagation of the Gospel: especially for maintaining hopefull poor scholars at the Universities.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89388</idno>
+            <idno type="STC">Wing M2943</idno>
+            <idno type="STC">Thomason E1189_11</idno>
+            <idno type="STC">ESTC R208287</idno>
+            <idno type="EEBO-CITATION">99867247</idno>
+            <idno type="PROQUEST">99867247</idno>
+            <idno type="VID">169455</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89388)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169455)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1189[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Motives to perswade people to abstain from one meals meat in a week, and to give the value thereof unto the trustees for propagation of the Gospel: especially for maintaining hopefull poor scholars at the Universities.</title>
+               </titleStmt>
+               <extent>14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>With a final imprimatur leaf.</note>
+                  <note>Annotation on Thomason copy: "septemb: 25th 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Meat --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169455:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 33 -->
+            <head>Motives to perſwade people to abſtain from one meals meat in a week, and to give the value thereof unto the Truſtees for propagation of the Goſpel: eſpecially for maintaining hopefull poor Scholars at the UNIVERSITIES.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>Septemb: 15<hi rend="sup">th</hi> 1646</add>
+                  </date>
+               </dateline>
+            </opener>
+            <p n="1">1. THere wanteth in England and Ireland at this day more then fifteen thou<g ref="char:EOLhyphen"/>ſand Preachers, as will ea<g ref="char:EOLhyphen"/>ſily appear, if the unwor<g ref="char:EOLhyphen"/>thy be all put out, and the numbers of Churches, Chappels, Noble Families, Armies, Navies, forraign Plantations, and where Merchants have ſetled tra<g ref="char:EOLhyphen"/>dings, be all reckoned up.</p>
+            <p n="2">2. When people uſe not the means to
+<pb n="2" facs="tcp:169455:2"/>
+               <!-- PDF PAGE 34 -->prevent ſpirituall famine, God uſually ſendeth corporall famine, <hi>Hag. chap.</hi> 1. and <hi>chap.</hi> 2. And when they provide to have plenty of ſpirituall food, God (<hi>Ma<g ref="char:EOLhyphen"/>lach.</hi> 3.) biddeth them prove him if hee will not ſend them plenty of corporall food: <hi>Prov.</hi> 3.9, 10. <hi>honour the Lord with thy ſubſtance, and with the firſt fruits of all thine increaſe: ſo ſhall thy barns be filled with plenty, and thy preſſes ſhall burſt out with new wine.</hi> 2 <hi>Sam.</hi> 24.25. <hi>And</hi> David <hi>built there an Altar unto the Lord, and offered burnt-offerings and peace-offerings, ſo the Lord was intreated for the land, and the plague was ſtayed.</hi> This was the Lords preſcri<g ref="char:EOLhyphen"/>ption then for the cure of the peſti<g ref="char:EOLhyphen"/>lence.</p>
+            <p n="3">3. Nature teacheth every man and wo<g ref="char:EOLhyphen"/>man to give of their meat to ſuch as be ready to ſtarve; and Grace much more: <hi>Luke</hi> 3.11. <hi>And hee that hath meat, let him doe likewiſe. Iſa.</hi> 58.7. <hi>Is it not to deale thy bread to the hungry? Rom.</hi> 12.20. <hi>There<g ref="char:EOLhyphen"/>fore if thine enemie hunger, feed him. Mat.</hi> 25.42. <hi>I was an hungry, and yee gave mee
+<pb n="3" facs="tcp:169455:2"/>
+                  <!-- PDF PAGE 34 -->meat.</hi> And our Saviour (<hi>Mark</hi> 3.4.) maketh it all one not to ſave life, and to kill. But what is feeding of bodies, compared to feeding of ſouls? or ſa<g ref="char:EOLhyphen"/>ving of lives, to ſaving of hunger-ſtar<g ref="char:EOLhyphen"/>ved ſoules? If <hi>Paul</hi> (2 <hi>Cor.</hi> 8.) begged to ſave poor ſaints lives, ought not all Miniſters much more to beg of their people to ſave poor ſouls? If <hi>Dives, Luk.</hi> 16. went to hell for not refreſhing <hi>Lazarus</hi> his body with the crums which fell under his table; what hope can they have to goe to heaven, that will not give one meale in a week to ſave many ſouls? And if, as <hi>Haggi, Malachie,</hi> and <hi>Paul</hi> have done, Miniſters will not preach and preſſe this duty at this time, how will they anſwer it to God another day? and thereupon if the people will not doe it, are not their gods their bel<g ref="char:EOLhyphen"/>lies, as <hi>Paul</hi> (<hi>Phil.</hi> 3.19.) ſheweth them? All parents that are not unnaturall, have a provident care how their little chil<g ref="char:EOLhyphen"/>dren ſhall live if they ſurvive them, and bethink themſelves who ſhall bring them up: and all parents that be more
+<pb n="4" facs="tcp:169455:3"/>
+               <!-- PDF PAGE 35 -->then carnall, will provide not onely Gardians for their children, that they may the better live temporally; but alſo Preachers that they may live eternally.</p>
+            <p n="4">4. All other kinde of almes coſteth a man ſomething; but if the meale be forborn, and the value given, this gift coſteth a man nothing: For example; ſuppoſe a man would forbear his Sab<g ref="char:EOLhyphen"/>bath dayes dinner, and onely take a ve<g ref="char:EOLhyphen"/>ry ſmall refection at noon that day, (ſo much as might ſtay his ſtomack till night) and at ſupper deduct or abate as much as that refection came unto; behold how many bleſſings would come thereby: Firſt, no work would be hin<g ref="char:EOLhyphen"/>dred thereby, (as perhaps, if this abſti<g ref="char:EOLhyphen"/>nence were on a week-day, ſome would alledge). Secondly, ſome more might be at Gods publick worſhip, when none ſtayed at home for cooking of meats. Thirdly, all drowſineſſe would be a<g ref="char:EOLhyphen"/>voyded, and many be much fitter in the afternoon to worſhip God. Fourthly,
+<pb n="5" facs="tcp:169455:3"/>
+               <!-- PDF PAGE 35 -->at ſupper, the rich man would have the poor mans ſtomack; and much meat, which is now caſt away in many houſes, would then be eaten: experience of this wee have in our monethly Faſts; for the fragments left the day before, are dainties upon the Faſt-day at night; eſpecially for the firſt courſe: verify<g ref="char:EOLhyphen"/>ing that which <hi>Solomon</hi> writeth, <hi>Prov.</hi> 27. <hi>ver.</hi> 7. <hi>The full ſoul loatheth the honey comb, but unto the hungry ſoule every bitter thing is ſweet.</hi>
+            </p>
+            <p n="5">5. God promiſeth a man <hi>Deut.</hi> 15.10. for opening his hand wide, and giving to his poor brother but bodily reliefe, to bleſſe all that ſuch a man putteth his hand unto: If ſo; O then how much more will God bleſſe him for his charity to many ſouls? And with what peace of conſcience and joy in the holy Ghoſt might ſuch a one, each Sabbath day at night, goe firſt to ſupper, and af<g ref="char:EOLhyphen"/>terward to bed, and yet do all this with<g ref="char:EOLhyphen"/>out expence of one half-peny?</p>
+            <p>
+               <label>Object.</label> It is contrary to the nature
+<pb n="6" facs="tcp:169455:4"/>
+               <!-- PDF PAGE 36 -->of the Sabbath (which ſhould be a day of rejoycing) to faſt.</p>
+            <p>
+               <label>Anſw.</label> 1. <hi>Daniel, Chap.</hi> 9.3. and 10.3. faſted full three weeks; namely, each day from morning untill night, and at night did eat no pleaſant bread, nor did fleſh or wine come in his mouth, nei<g ref="char:EOLhyphen"/>ther did hee annoint himſelfe all that while: in which ſpace there muſt needs be three Sabbath-dayes; yet God was not offended, but greatly pleaſed with <hi>Daniel</hi> for this.</p>
+            <p n="2">2. Wee have the like cauſe; for the ſeventy weeks of our Captivity are now alſo expired.</p>
+            <p n="3">3. Wee faſt not, but abſtain ſome<g ref="char:EOLhyphen"/>what, and prepare to ſanctifie the Sab<g ref="char:EOLhyphen"/>bath the better, and that our ordinary ſupper might be more then a feaſt unto us at night after wee have offered our dinners unto God in this ſervice, and our praiſes and prayers in his publick worſhip. And perhaps, if the practice of the Jewes be well ſearched into, they did eat little or no dinners on their Sab<g ref="char:EOLhyphen"/>baths or Feaſt-dayes; but firſt feaſted
+<pb n="7" facs="tcp:169455:4"/>
+               <!-- PDF PAGE 36 -->their ſoules, and after their bodies: as the Maſter firſt feaſteth, but the ſervant when hee hath done.</p>
+            <p n="4">4. Let us prove, if wee doe thus, whether our ordinary ſuppers ſhall not be bleſſed, and goe farther then other<g ref="char:EOLhyphen"/>wiſe they would, even as the five loaves and two fiſhes did. People often have ſuch bleſſings, but too ſeldome doe ob<g ref="char:EOLhyphen"/>ſerve how the Lord doth make (many times) a little meat to fill many, and that much more at one time then at another.</p>
+            <p n="5">5. When this objection is well ex<g ref="char:EOLhyphen"/>amined, perhaps it will appear to come out of the ſtomack and belly, rather then out of the head, or to have any weight of reaſon in it. Whatſoever ſome have written, and others ſaid in their incogitancy, eſpecially in regard that the abſtinence here reaſoned for (and a very ſmall refection taken at noon) tendeth generally to the better ſanctification of the Sabbath, which is the ſcope and end of the fourth Com<g ref="char:EOLhyphen"/>mandement: and whatſoever maketh
+<pb n="8" facs="tcp:169455:5"/>
+               <!-- PDF PAGE 37 -->for the better keeping of it, is virtually commanded in it. But if there be ſome few particular men and women, who (undeceived) find that feaſting or eat<g ref="char:EOLhyphen"/>ing liberally doth more fit them to ſanctifie a Sabbath; they, and they on<g ref="char:EOLhyphen"/>ly may take ſuch libertie: but all o<g ref="char:EOLhyphen"/>thers doubtleſſe ſhall doe better to eat ſo as may the better fit them for the ſer<g ref="char:EOLhyphen"/>vices of the day.</p>
+            <p>
+               <label>Object.</label> Yet the Divell, who would not have this to be done, will ſuggeſt, that the family will eat as much more at night as was ſpared at noon.</p>
+            <p>
+               <label>Anſw.</label> But that will not be ſo, if the Governours or Governeſſes of families doe their duties as (for the good of the Common-wealth, ſparing of victuall, avoyding of famine, and cauſing plen<g ref="char:EOLhyphen"/>ty) they ought to doe: and may more eaſily do, then is done in beſieged Ci<g ref="char:EOLhyphen"/>ties: for a man or woman may better proportion the victuall of an houſe, then a Governour can do it in a whole Citie; and yet wee have often ſeen that done in Cities by the Governours.</p>
+            <p>
+               <pb n="9" facs="tcp:169455:5"/>
+               <!-- PDF PAGE 37 -->
+               <label>Object.</label> But you will hardly get peo<g ref="char:EOLhyphen"/>ple to abſtain.</p>
+            <p>
+               <label>Anſw.</label> 1. Yet it is a leſſon worthie to be taught, learned and pactiſed.</p>
+            <p n="2">2. The voluntary meale firſt yeeld<g ref="char:EOLhyphen"/>ed (after an Ordinance enforcing all to pay it) brought many families in Lon<g ref="char:EOLhyphen"/>don to obſerve it ever ſithence; and our enemies in the Kings Quarters to do the like: And if this was done with<g ref="char:EOLhyphen"/>out Miniſters preſſing it in the pulpit, becauſe people found the benefit; and hath been the cauſe that wee have had, and have at this day the more plenty, and England in ſome degree hath thereby been cured of her former gluttony: if Miniſters hereafter doe their duties, and doe but urge theſe reaſons (as they will, and many more) why may we not hope to bring the people willingly unto their good, that are too much diſpoſed to novelties and new faſhions, though in their own nature, and apparent reaſon they be ſo unprofitable and noxious?</p>
+            <p n="3">3. In all godly families let the Governours but alledge theſe reaſons,
+<pb n="10" facs="tcp:169455:6"/>
+               <!-- PDF PAGE 38 -->and then ask their children and ſervants if they will be contented to give their parts, and they ſhall find that none will deny it, leſt thoſe that be willing ſhould make thoſe aſhamed that be unwilling; and theſe leading, the reſt will follow, or may be driven: and this will be not onely no charge to the Governors, but a gain; for (if it become generall) it will make victuall ſo much cheaper; ſo that their money will be reſtored to them a<g ref="char:EOLhyphen"/>gain, as <hi>Jacobs</hi> ſons were, <hi>Geneſ.</hi> 42.28. and with intereſt alſo, if afterwards by means thereof they pay leſſe for vi<g ref="char:EOLhyphen"/>ctuall.</p>
+            <p n="6">6. The mony thus raiſed is better both to Church and to Common-wealth, then if ſome forreign State gave it; for wee by this means not onely have it for no<g ref="char:EOLhyphen"/>thing, but have it as it were wrapped up alſo in ſo much victuall as by this means is ſaved.</p>
+            <p n="7">7. When people have once learned this way of ſparing, any famine foreſeen, with
+<pb n="11" facs="tcp:169455:6"/>
+               <!-- PDF PAGE 38 -->Gods bleſſing may be prevented there<g ref="char:EOLhyphen"/>by. Suppoſe we had now but halfe ſo much vituals in England as would fur<g ref="char:EOLhyphen"/>niſh us with two meals a day, until God ſent us more, if betimes we did eat but one meal in a day, our victual would hold out until the Lord did relieve us.</p>
+            <p n="8">8. The poorer any one is, the more reaſon he hath to give a meal, if this may be a means to prevent dearth; for fa<g ref="char:EOLhyphen"/>mine killeth the poor, before it killeth the rich; and the pooreſt of all firſt of all.</p>
+            <p n="9">9. It is a Godly policy in time of plenty to teach and to bring people to ſuch a diet, that when need requireth they may ſave their lives by offering of it.</p>
+            <p n="10">10. <hi>Solomon</hi> telleth us of a poore Wiſe<g ref="char:EOLhyphen"/>man <hi>Eccleſ.</hi> 9. that ſaved his City. But 2 <hi>Sam.</hi> 20. We read of the Wiſe-woman of <hi>Abel,</hi> that ſaved that City, when all
+<pb n="12" facs="tcp:169455:7"/>
+               <!-- PDF PAGE 39 -->the Wiſe-men in it either could not, or would not: Women (in <hi>London</hi> eſpeci<g ref="char:EOLhyphen"/>ally) have the charge of meats in all Families: and are there no Godly and Wiſe-women that will undertake this work, and get a meal a week to be ſpa<g ref="char:EOLhyphen"/>red, and the value given, and promiſe and become ſureties for God that he ſhall bleſſe ſo the meal in the barrel, and oyl in the cruſe (I mean the reſt of the victu<g ref="char:EOLhyphen"/>al in every houſe that doth ſo) that it ſhall go farther, and fatten alſo; as <hi>Da<g ref="char:EOLhyphen"/>niels</hi> and his fellows water and pulſe did: This Chriſt will take to be more kind<g ref="char:EOLhyphen"/>neſſe ſhewed unto him, then thoſe Wo<g ref="char:EOLhyphen"/>mens miniſtring unto him of their ſub<g ref="char:EOLhyphen"/>ſtance, <hi>Luk.</hi> 8. Alſo, if that Womans pouring the precious oyntment on his head <hi>Matth.</hi> 26. ſhould be told for a memorial of her whereſoever the Go<g ref="char:EOLhyphen"/>ſpel ſhould be preached, ſurely ſuch wo<g ref="char:EOLhyphen"/>men as by this means ſhall procure main<g ref="char:EOLhyphen"/>tenance for poor Scholars at the Uni<g ref="char:EOLhyphen"/>verſities, whereby Chriſt may have many more Miniſters bred up, ſhall have a moſt honourable memorial
+<pb n="13" facs="tcp:169455:7"/>
+               <!-- PDF PAGE 39 -->whereſoever the Goſpel ſhall hereafter be preached by ſuch poor Scholars; yea by many thouſands more.</p>
+            <p>Truly if men ſhall not ſtir herein, nor Miniſters move them (which God for<g ref="char:EOLhyphen"/>bid) I ſhall pray that Women may doe this work, and have the honour there<g ref="char:EOLhyphen"/>of from men, and the reward thereof from God.</p>
+            <p>That Mother that like <hi>Hannah</hi> breedeth but one <hi>Samuel</hi> for the Lord, doubt leſſe ſhe ſhall not loſe her reward: much leſſe ſhall thoſe Women that are the means of breeding and bringing up of multitudes of <hi>Samuels.</hi>
+            </p>
+            <p>If all the Men and Women that were wiſe-hearted did<g ref="char:punc">▪</g> ſo cheerfully work with their hands for the Tabernacle in the time of the Law, that they wrought and brought too much, and were com<g ref="char:EOLhyphen"/>manded to bring no more: will men and women now for Goſpel Tabernacles not do that which will ask but ſome of them a little labour, and none of them any coſt at all, but be ſo pleaſant and profitable as hath been ſhewed, and refuſe the
+<pb n="14" facs="tcp:169455:8"/>
+               <!-- PDF PAGE 40 -->honour to be inſtrumental in the inlarge<g ref="char:EOLhyphen"/>ment of Chriſts Kingdom, and their own and their poſterities temporal &amp; eternal happines? But in this offering unto the Lord, Let none (as <hi>Ananias</hi> and <hi>Sa<g ref="char:EOLhyphen"/>phyra</hi>) keep back apart (by undervalu<g ref="char:EOLhyphen"/>ing their meal) but rather make God good meaſure, preſſed down, ſhaken together, and running over; and then pray as <hi>Nehemiah, Nehem.</hi> 13.14. <hi>Re<g ref="char:EOLhyphen"/>member me O my God concerning this, and wipe not out my good deeds that I have done for the Houſe of my God, and for the Offices thereof:</hi> and then expect Gods bleſſing, and the like honour that <hi>Nehemiah</hi> hath had and ſhall have in all after Ages.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:169455:8"/>
+            <!-- PDF PAGE 40 -->
+            <p>Imprimatur:</p>
+            <closer>
+               <signed>JAMES CRANFORD.</signed>
+               <dateline>
+                  <date>Septemb. 11. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
